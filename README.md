@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Harshal Makode
 
-<!--
-**Harshal976-cpu/Harshal976-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Python Developer |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Flask
+- MySQL
+
+## 🚀 Projects
+
+### 🌾 Crop Recommendation System
+A Machine Learning based Crop Recommendation System developed using Python, Flask and MySQL.
+
+### 🌐 Personal Portfolio
+My personal portfolio website showcasing my skills and projects.
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/harshal-makode-b5a5bb290/)
+- [Portfolio](https://harshal976-cpu.github.io/Portfolio/)
+
+## 🎓 Education
+
+B.Tech in Computer Science & Engineering
